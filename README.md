@@ -1,3 +1,6 @@
+<a id='link6'></a>
+<a id='RUS'></a>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ljc6ari0tPc3pBwzkF/giphy.gif" width="200"/>
 </div>     
