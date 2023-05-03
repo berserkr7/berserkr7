@@ -34,6 +34,24 @@
 
 
 
+
+
+Проекты DataScience. Классический Machine Learning
+
+
+Проекты Deep Learning и NLP
+
+
+Проекты Deep Learning и Computer Vision
+
+
+Проекты Kaggle
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
