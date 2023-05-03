@@ -90,9 +90,9 @@
 | 10. [Статистический анализ данных](https://github.com/berserkr7/Data-Science-Projects/tree/main/statistic-data-analysis) | Нужно научиться определять рыночную стоимость объектов недвижимости. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.        |    Завершен |
 | 11. [Рекомендация тарифов](https://github.com/berserkr7/Data-Science-Projects/tree/main/tariff-recommendation) | Оператор мобильной связи  выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Необходимо получить метрику accuracy > 0.75        |    Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="https://github.com/berserkr7/Data-Science-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
----
+***
 
 <h2><p align="center"> Проекты Deep Learning и NLP</p></h2>
 
@@ -111,7 +111,7 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 ---
 <h2><p align="center">Проекты Deep Learning и Computer Vision</p></h2>
@@ -131,12 +131,12 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 ---
 
-<h2><p align="center">Проекты Kaggle</p></h2>
+<h2><p align="center">Kaggle Competitions</p></h2>
 
 
 | Проект       | Описание                | Статус |
@@ -153,7 +153,7 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 ---
@@ -177,7 +177,7 @@
 | 12. [Фреймы FILTER](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-FILTER.ipynb)     | Применение FILTER в фреймах    | Завершен |
 | 13. [Фреймы Range](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-RANGE.ipynb)     | Применение Range в фреймах  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К началу-&#x21A9-blue'></a>
+<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 
