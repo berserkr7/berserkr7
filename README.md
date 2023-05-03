@@ -111,7 +111,7 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+<a href="https://github.com/berserkr7/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 ---
 <h2><p align="center">Проекты Deep Learning и Computer Vision</p></h2>
@@ -131,7 +131,7 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+<a href="https://github.com/berserkr7/CV-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 ---
@@ -153,7 +153,7 @@
 | 10. process     | process  | Завершен |
 | 11. process     | process | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+<a href="https://github.com/berserkr7/Kaggle"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 ---
@@ -177,7 +177,7 @@
 | 12. [Фреймы FILTER](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-FILTER.ipynb)     | Применение FILTER в фреймах    | Завершен |
 | 13. [Фреймы Range](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-RANGE.ipynb)     | Применение Range в фреймах  | Завершен |
 
-<a href="#link6"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+<a href="https://github.com/berserkr7/SQL"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 
 
