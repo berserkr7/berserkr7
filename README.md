@@ -44,7 +44,21 @@
 
 ---
 
+**Репозитории:**
 
+<code>1. [Data Science](https://github.com/berserkr7/Data-Science-Projects)
+</code>
+<code>2. [Natural language processing (NLP)](https://github.com/berserkr7/NLP-Projects)
+</code>
+<code>3. [Computer Vision](https://github.com/berserkr7/CV-Projects)
+</code>
+<code>4. [Kaggle](https://github.com/berserkr7/Kaggle)
+</code>
+<code>5. [SQL](https://github.com/berserkr7/SQL)
+</code>
+
+
+---
 
 
 
