@@ -43,8 +43,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+<p align="center"> <b>Репозитории</b> </p align="center">
 
-**Репозитории:**
 
 <code>1. [Data Science](https://github.com/berserkr7/Data-Science-Projects)
 </code>
@@ -63,8 +63,8 @@
 ---
 
 
+<p align="center"> <b>Проекты Data Science. Классический Machine Learning</b> </p align="center">
 
-**Проекты DataScience. Классический Machine Learning**
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
@@ -81,7 +81,7 @@
 | 11. Рекомендация тарифов | Оператор мобильной связи  выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Необходимо получить метрику accuracy > 0.75        |    Завершен |
 
 ---
-**Проекты Deep Learning и NLP**
+<p align="center"> <b>Проекты Deep Learning и NLP</b> </p align="center">
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
@@ -98,7 +98,7 @@
 | 11. process     | process  | Завершен |
 
 ---
-**Проекты Deep Learning и Computer Vision**
+<p align="center"> <b>Проекты Deep Learning и Computer Vision</b> </p align="center">
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
@@ -117,7 +117,7 @@
 
 
 ---
-**Проекты Kaggle**
+<p align="center"> <b>Проекты Kaggle</b> </p align="center">
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
@@ -137,7 +137,7 @@
 
 ---
 
-**Задачи SQL**
+<p align="center"> <b>Задачи SQL</b> </p align="center">
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
