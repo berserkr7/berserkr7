@@ -21,11 +21,15 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Shap](https://img.shields.io/badge/SHAP-blueviolet?style=for-the-badge&)
-
+![Imblearn](https://img.shields.io/badge/Imblearn-critical?style=for-the-badge&)
+![LightGBM](https://img.shields.io/badge/LightGBM-success?style=for-the-badge&)
+![phik](https://img.shields.io/badge/phik-inactive?style=for-the-badge&)
+![pymystem3](https://img.shields.io/badge/pymystem3-yellow?style=for-the-badge&)
+![seaborn](https://img.shields.io/badge/seaborn-blue?style=for-the-badge&)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 
 
 
