@@ -84,6 +84,16 @@
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
 | 01. Классификация токсичных комментариев     | Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо научить модель классифицировать комментарии на позитивные и негативные. Преодолеть порог метрики качества F1 не меньше 0.75| Завершен |
+| 02. process     | process    | Завершен |
+| 03. process     | process  | Завершен |
+| 04. process     | process  | Завершен |
+| 05. process     | process  | Завершен |
+| 06. process     | process  | Завершен |
+| 07. process     | process | Завершен |
+| 08. process     | process  | Завершен |
+| 09. process     | process  | Завершен |
+| 10. process     | process  | Завершен |
+| 11. process     | process  | Завершен |
 
 ---
 **Проекты Deep Learning и Computer Vision**
@@ -93,7 +103,15 @@
 | 01. Классификация кошек и собак     | Используя Convolution Neural Network построить классификатор, который будет корректно классифицировать кошек и собак    | Завершен |
 | 02. Fashion MNIST    | Построить классификатор, который будет корректно классифицировать одежду на 10 классов    | Завершен |
 | 03. MNIST     | Построить классификатор, который будет корректно классифицировать рукописные цифры  | Завершен |
-| 04. Реализация LeNET     | Реализация алгоритма CNN LeNET  | Завершен |
+| 04. Реализация LeNet     | Реализация алгоритма CNN LeNet  | Завершен |
+| 05. process     | process  | Завершен |
+| 06. process     | process  | Завершен |
+| 07. process     | process | Завершен |
+| 08. process     | process  | Завершен |
+| 09. process     | process  | Завершен |
+| 10. process     | process  | Завершен |
+| 11. process     | process  | Завершен |
+
 
 
 ---
@@ -101,7 +119,19 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. Название     | мини-обзор    | Завершен |
+| 01. process     | process    | Завершен |
+| 02. process     | process  | Завершен |
+| 03. process     | process  | Завершен |
+| 04. process     | process | Завершен |
+| 05. process     | process  | Завершен |
+| 06. process     | process  | Завершен |
+| 07. process     | process  | Завершен |
+| 08. process     | process  | Завершен |
+| 09. process     | process  | Завершен |
+| 10. process     | process  | Завершен |
+| 11. process     | process | Завершен |
+
+
 
 ---
 
@@ -109,7 +139,27 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. Название     | мини-обзор    | Завершен |
+| 01. process     | process    | Завершен |
+| 02. process     | process  | Завершен |
+| 03. process     | process  | Завершен |
+| 04. process     | process | Завершен |
+| 05. process     | process  | Завершен |
+| 06. process     | process  | Завершен |
+| 07. process     | process  | Завершен |
+| 08. process     | process  | Завершен |
+| 09. process     | process  | Завершен |
+| 10. process     | process  | Завершен |
+| 11. process     | process | Завершен |
+| 12. process     | process    | Завершен |
+| 13. process     | process  | Завершен |
+| 14. process     | process  | Завершен |
+| 15. process     | process | Завершен |
+| 16. process     | process  | Завершен |
+| 17. process     | process  | Завершен |
+| 18. process     | process  | Завершен |
+| 19. process     | process  | Завершен |
+| 20. process     | process  | Завершен |
+| 21. process     | process  | Завершен |
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
