@@ -1,13 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0mPjZuIu5JWQPWfYHF/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/fe6NAMLeTWZq3v9Nmg/giphy.gif" width="150"/>
 </div>     
 
 <div id='header' align='center'>
   <h2>Hi there, I'm Alexey :hugs:</h2>
-  <h3>Machine Learning Engineer from Moscow</h3>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&repeat=false&width=800&lines=&nbsp+&nbsp+&nbsp+&nbsp+Machine+Learning+Engineer+from+Moscow" alt="Typing SVG" /></a></h2>
 </div>
      
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=520&size=30&pause=1000&color=000000&repeat=false&width=435&lines=Machine+Learning+Engineer+from+Moscow" alt="Typing SVG" /></a> 
+
 
      
 <!--
