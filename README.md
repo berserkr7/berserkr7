@@ -7,13 +7,13 @@
   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&repeat=false&width=800&lines=&nbsp+&nbsp+&nbsp+&nbsp+Machine+Learning+Engineer+from+Moscow" alt="Typing SVG" /></a></h2>
 </div>
 
-
+<h2>
 <div id='header' align='center'>
 <p>
-  <a href="https://github.com/berserkr7/Certificates/tree/main">Сертификаты и пройденные курсы</a>
+  <a href="https://github.com/berserkr7/Certificates/tree/main">Сертификаты и пройденные курсы (Click me)</a>
 </p>
 </div>
-
+</h2>
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
