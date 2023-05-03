@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/0mPjZuIu5JWQPWfYHF/giphy.gif" width="150"/>
+</div>     
 
 <div id='header' align='center'>
   <h1>Hi there, I'm Alexey :hugs:</h1>
@@ -6,6 +8,7 @@
 </div>
      
      
+
      
 <!--
 **berserkr7/berserkr7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
