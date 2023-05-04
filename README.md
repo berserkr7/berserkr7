@@ -99,17 +99,7 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. Классификация токсичных комментариев     | Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. Необходимо научить модель классифицировать комментарии на позитивные и негативные. Преодолеть порог метрики качества F1 не меньше 0.75| Завершен |
-| 02. process     | process    | Завершен |
-| 03. process     | process  | Завершен |
-| 04. process     | process  | Завершен |
-| 05. process     | process  | Завершен |
-| 06. process     | process  | Завершен |
-| 07. process     | process | Завершен |
-| 08. process     | process  | Завершен |
-| 09. process     | process  | Завершен |
-| 10. process     | process  | Завершен |
-| 11. process     | process  | Завершен |
+| 01. [Классификация токсичных комментариев BERT](https://github.com/berserkr7/NLP-Projects/tree/main/Toxic-Comments)     |  Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В нашем распоряжении набор данных с разметкой о токсичности правок. Построить модель со значением метрики качества F1 не меньше 0.75. Получение Embeddings с помощью ToxicBERT; Feature Engeneering. | Завершен  |
 
 <a href="https://github.com/berserkr7/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
@@ -123,13 +113,7 @@
 | 02. Fashion MNIST    | Построить классификатор, который будет корректно классифицировать одежду на 10 классов    | Завершен |
 | 03. MNIST     | Построить классификатор, который будет корректно классифицировать рукописные цифры  | Завершен |
 | 04. Реализация LeNet     | Реализация алгоритма CNN LeNet  | Завершен |
-| 05. process     | process  | Завершен |
-| 06. process     | process  | Завершен |
-| 07. process     | process | Завершен |
-| 08. process     | process  | Завершен |
-| 09. process     | process  | Завершен |
-| 10. process     | process  | Завершен |
-| 11. process     | process  | Завершен |
+
 
 <a href="https://github.com/berserkr7/CV-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
@@ -142,16 +126,7 @@
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
 | 01. process     | process    | Завершен |
-| 02. process     | process  | Завершен |
-| 03. process     | process  | Завершен |
-| 04. process     | process | Завершен |
-| 05. process     | process  | Завершен |
-| 06. process     | process  | Завершен |
-| 07. process     | process  | Завершен |
-| 08. process     | process  | Завершен |
-| 09. process     | process  | Завершен |
-| 10. process     | process  | Завершен |
-| 11. process     | process | Завершен |
+
 
 <a href="https://github.com/berserkr7/Kaggle"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
