@@ -68,7 +68,7 @@
 
 ---
 
-<h2><p align="center"> Проекты Data Science. Классический Machine Learning </p></h2>
+<h2><p align="center"> Учебные проекты Data Science. Классический Machine Learning </p></h2>
 
 
 
