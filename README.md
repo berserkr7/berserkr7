@@ -7,6 +7,8 @@
   <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=000000&repeat=false&width=800&lines=&nbsp+&nbsp+&nbsp+&nbsp+Machine+Learning+Engineer+from+Moscow" alt="Typing SVG" /></a></h2>
 </div>
 
+Я занимаюсь Machine Learning. Ищу интересную, оплачиваемую работу в хорошей компании.
+
 
 <p align="center">
   <a href="https://www.kaggle.com/alexeysamoylenko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
