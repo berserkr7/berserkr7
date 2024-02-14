@@ -4,7 +4,7 @@
 
 <div id='header' align='center'>
   <h1>Привет 👋 Меня зовут Алексей</h1>
-  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=FF671E&repeat=false&width=800&lines=&nbsp+&nbsp+&nbsp+&nbsp+Machine+Learning+Engineer+from+Moscow" alt="Typing SVG" /></a></h2>
+  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=33&pause=1000&color=FF671E&repeat=false&width=800&lines=&nbsp+&nbsp+&nbsp+&nbsp+Machine+Learning+Engineer" alt="Typing SVG" /></a></h2>
 </div>
 
 
