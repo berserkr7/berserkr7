@@ -10,7 +10,6 @@
 
 
 <p align="center">
-  <a href="https://www.kaggle.com/alexeysamoylenko"><img src='https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white'></a>
   <a href="https://stepik.org/users/34041325"><img src='https://img.shields.io/badge/Stepik-success?style=for-the-badge&'></a>
   <a href="https://leetcode.com/berserkr7/"><img src='https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black'></a>
 
