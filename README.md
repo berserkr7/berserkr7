@@ -69,8 +69,6 @@
 </code>
 <code>3. [Computer Vision](https://github.com/berserkr7/CV-Projects)
 </code>
-<code>4. [Kaggle](https://github.com/berserkr7/Kaggle)
-</code>
 <code>5. [SQL](https://github.com/berserkr7/SQL)
 </code>
 
@@ -128,21 +126,6 @@
 
 
 <a href="https://github.com/berserkr7/CV-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
-
-
----
-
-<h2><p align="center">Kaggle Competitions</p></h2>
-
-
-| Проект       | Описание                | Статус |
-| ------------- |:------------------:| -----:|
-| 01. Классификация курильщика по клиническим анализам     | Необходимо по клиническим анализам классифицировать курильщика. Предсказание модели будет оцениваться по F-мере (F1)    | Завершен|
-| 02. Стоимость недвижимости в Мельбурне     | Необходимо построить модель, определяющую стоимость надвижимости в мельбурне. Предсказание модели будет оцениваться по MAPE (mean absolute Percentage error)   | Завершен |
-
-
-<a href="https://github.com/berserkr7/Kaggle"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
-
 
 ---
 
