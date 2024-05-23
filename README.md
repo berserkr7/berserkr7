@@ -66,13 +66,13 @@
 ---
 <h2><p align="center"> ⚡Репозитории⚡ </p></h2>
 
-<code>1. [Data Science](https://github.com/berserkr7/Data-Science-Projects)
+<code>1. [Classic ML](https://github.com/samoylenko23/Data-Science-Projects)
 </code>
-<code>2. [Natural language processing (NLP)](https://github.com/berserkr7/NLP-Projects)
+<code>2. [Natural language processing (NLP)](https://github.com/samoylenko23/NLP-Projects)
 </code>
-<code>3. [Computer Vision](https://github.com/berserkr7/CV-Projects)
+<code>3. [Computer Vision](https://github.com/samoylenko23/CV-Projects)
 </code>
-<code>5. [SQL](https://github.com/berserkr7/SQL)
+<code>5. [SQL](https://github.com/samoylenko23/SQL)
 </code>
 
 
@@ -87,17 +87,17 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. [Предсказание цены автомобиля](https://github.com/berserkr7/Data-Science-Projects/tree/main/car-price-forecasting)     | Необходимо построить модель, которая умеет определять рыночную стоимость автомобиля.     | Завершен |
-| 02. [Прогнозирование прибыли от нефтяных скважин](https://github.com/berserkr7/Data-Science-Projects/tree/main/bootstrap-forecasting)| Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль, а также проанализировать возможную прибыль и риски техникой Bootstrap.         |    Завершен |
-| 03. [Прогноз продаж в интернет-магазине](https://github.com/berserkr7/Data-Science-Projects/tree/main/online-sales-forecasting)     | Необходимо выявить определяющие успешность игры закономерности и выбрать игры для рекламных кампаний.  |   Завершен |
-| 04. [Прогнозирование оттока клиентов](https://github.com/berserkr7/Data-Science-Projects/tree/main/customer-churn) | Из банка стали уходить клиенты. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.  Необходимо построить модель с предельно большим значением F1-меры. Преодолеть f1 метрику > 0.59.        |    Завершен |
-| 05. [Time Series. Прогнозирование временных рядов](https://github.com/berserkr7/Data-Science-Projects/tree/main/Time-Series)  | По историческим данным спрогнозировать  количество заказов такси на следующий час. Необходимо добиться метрики RMSE < 48         |    Завершен |
-| 06. [Промышленное моделирование](https://github.com/berserkr7/Data-Science-Projects/tree/main/forecasting-gold) |Восстановление золота из руды. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Нам предоставлены данные с параметрами добычи и очистки.         |    Завершен |
-| 07. [Защита персональных данных клиентов](https://github.com/berserkr7/Data-Science-Projects/tree/main/Protection-personal-data-clients)  |  Разработать  метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.       |    Завершен|
-| 08. [Исследование надежности заемщиков](https://github.com/berserkr7/Data-Science-Projects/tree/main/research-reability) |  Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.        |    Завершен |
-| 09. [Музыка больших городов](https://github.com/berserkr7/Data-Science-Projects/tree/main/music-big-sity)  | В данном проекте проведем проверку гипотез и сравним  поведение пользователей двух столиц - Москвы и Санкт-Петербурга.         |    Завершен |
-| 10. [Статистический анализ данных](https://github.com/berserkr7/Data-Science-Projects/tree/main/statistic-data-analysis) | Нужно научиться определять рыночную стоимость объектов недвижимости. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.        |    Завершен |
-| 11. [Рекомендация тарифов](https://github.com/berserkr7/Data-Science-Projects/tree/main/tariff-recommendation) | Оператор мобильной связи  выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Необходимо получить метрику accuracy > 0.75        |    Завершен |
+| 01. [Предсказание цены автомобиля](https://github.com/samoylenko23/Data-Science-Projects/tree/main/car-price-forecasting)     | Необходимо построить модель, которая умеет определять рыночную стоимость автомобиля.     | Завершен |
+| 02. [Прогнозирование прибыли от нефтяных скважин](https://github.com/samoylenko23/Data-Science-Projects/tree/main/bootstrap-forecasting)| Необходимо построить модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль, а также проанализировать возможную прибыль и риски техникой Bootstrap.         |    Завершен |
+| 03. [Прогноз продаж в интернет-магазине](https://github.com/samoylenko23/Data-Science-Projects/tree/main/online-sales-forecasting)     | Необходимо выявить определяющие успешность игры закономерности и выбрать игры для рекламных кампаний.  |   Завершен |
+| 04. [Прогнозирование оттока клиентов](https://github.com/samoylenko23/Data-Science-Projects/tree/main/customer-churn) | Из банка стали уходить клиенты. Необходимо спрогнозировать, уйдёт клиент из банка в ближайшее время или нет.  Необходимо построить модель с предельно большим значением F1-меры. Преодолеть f1 метрику > 0.59.        |    Завершен |
+| 05. [Time Series. Прогнозирование временных рядов](https://github.com/samoylenko23/Data-Science-Projects/tree/main/Time-Series)  | По историческим данным спрогнозировать  количество заказов такси на следующий час. Необходимо добиться метрики RMSE < 48         |    Завершен |
+| 06. [Промышленное моделирование](https://github.com/samoylenko23/Data-Science-Projects/tree/main/forecasting-gold) |Восстановление золота из руды. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. Нам предоставлены данные с параметрами добычи и очистки.         |    Завершен |
+| 07. [Защита персональных данных клиентов](https://github.com/samoylenko23/Data-Science-Projects/tree/main/Protection-personal-data-clients)  |  Разработать  метод преобразования данных, чтобы по ним было тяжело восстановить исходную информацию и при этом не менялось качество линейной регрессии.       |    Завершен|
+| 08. [Исследование надежности заемщиков](https://github.com/samoylenko23/Data-Science-Projects/tree/main/research-reability) |  Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок.        |    Завершен |
+| 09. [Музыка больших городов](https://github.com/samoylenko23/Data-Science-Projects/tree/main/music-big-sity)  | В данном проекте проведем проверку гипотез и сравним  поведение пользователей двух столиц - Москвы и Санкт-Петербурга.         |    Завершен |
+| 10. [Статистический анализ данных](https://github.com/samoylenko23/Data-Science-Projects/tree/main/statistic-data-analysis) | Нужно научиться определять рыночную стоимость объектов недвижимости. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.        |    Завершен |
+| 11. [Рекомендация тарифов](https://github.com/samoylenko23/Data-Science-Projects/tree/main/tariff-recommendation) | Оператор мобильной связи  выяснил: многие клиенты пользуются архивными тарифами. Они хотят построить систему, способную проанализировать поведение клиентов и предложить пользователям новый тариф. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Необходимо получить метрику accuracy > 0.75        |    Завершен |
 | 12. [Телеком: отток клиентов](https://github.com/samoylenko23/Data-Science-Projects/blob/main/telecom-customer-churn) |Оператор связи хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Необходимо построить модель машинного обучения, которая бы прогнозировала отток клиентов. Необходимо получить метрику ROC-AUC > 0.85. Работа с сильным дисбалансом классов. |  Завершен   |
 
 <a href="https://github.com/berserkr7/Data-Science-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
@@ -109,9 +109,9 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. [Классификация токсичных комментариев BERT](https://github.com/berserkr7/NLP-Projects/tree/main/Toxic-Comments)     |  Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В нашем распоряжении набор данных с разметкой о токсичности правок. Построить модель со значением метрики качества F1 не меньше 0.75. Получение Embeddings с помощью ToxicBERT; Feature Engeneering. | Завершен  |
+| 01. [Классификация токсичных комментариев BERT](https://github.com/samoylenko23/NLP-Projects/tree/main/Toxic-Comments)     |  Необходимо обучить модель классифицировать комментарии на позитивные и негативные. В нашем распоряжении набор данных с разметкой о токсичности правок. Построить модель со значением метрики качества F1 не меньше 0.75. Получение Embeddings с помощью ToxicBERT; Feature Engeneering. | Завершен  |
 
-<a href="https://github.com/berserkr7/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
+<a href="https://github.com/samoylenko23/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 ---
 <h2><p align="center">Проекты Deep Learning и Computer Vision</p></h2>
@@ -119,10 +119,10 @@
 
 | Проект       | Описание                | Статус |
 | ------------- |:------------------:| -----:|
-| 01. [Fruits Recognition using CNN](https://github.com/berserkr7/CV-Projects/tree/main/Fruits%20Recognition)     |  Необходимо решить задачу распознавания изображения. Всего 131 класс. Необходимо построить модель, которая будет иметь метрику accuracy > 97% | Завершен  |
-| 02. [Classification using Transfer Learning](https://github.com/berserkr7/CV-Projects/tree/main/Transfer-Learning)     |  Необходимо решить задачу классификации изображений - кошек и собак. В нашем распоряжении имеется датасет кошек и собак. Необходимо построить модель, которая будет иметь метрику accuracy > 90%, применив технику Transfer Learning на ResNet 50 |  Завершен| 
-| 03. [Implementention VGG16](https://github.com/berserkr7/CV-Projects/tree/main/VGG) |  Необходимо реализовать архитектуру глубокой нейронной сети VGG16 на PyTorch |  Завершен| 
-| 04. [Предсказание возраста человека по фотографии](https://github.com/berserkr7/CV-Projects/tree/main/Age-prediction-CV)     |  Необходимо решить задачу предсказания возраста человека по его фотографии. В нашем распоряжении имеется датасет из 7500 лиц. Необходимо построить нейронную сеть, которая будет иметь метрику MAE < 7 на test. Обучать модели будем на Tesla V100 на 30 эпохах, с динамическим изменением Learning Rate. В качестве архитектуры возьмем Residual Network (ResNet50) |  Завершен| 
+| 01. [Fruits Recognition using CNN](https://github.com/samoylenko23/CV-Projects/tree/main/Fruits%20Recognition)     |  Необходимо решить задачу распознавания изображения. Всего 131 класс. Необходимо построить модель, которая будет иметь метрику accuracy > 97% | Завершен  |
+| 02. [Classification using Transfer Learning](https://github.com/samoylenko23/CV-Projects/tree/main/Transfer-Learning)     |  Необходимо решить задачу классификации изображений - кошек и собак. В нашем распоряжении имеется датасет кошек и собак. Необходимо построить модель, которая будет иметь метрику accuracy > 90%, применив технику Transfer Learning на ResNet 50 |  Завершен| 
+| 03. [Implementention VGG16](https://github.com/samoylenko23/CV-Projects/tree/main/VGG) |  Необходимо реализовать архитектуру глубокой нейронной сети VGG16 на PyTorch |  Завершен| 
+| 04. [Предсказание возраста человека по фотографии](https://github.com/samoylenko23/CV-Projects/tree/main/Age-prediction-CV)     |  Необходимо решить задачу предсказания возраста человека по его фотографии. В нашем распоряжении имеется датасет из 7500 лиц. Необходимо построить нейронную сеть, которая будет иметь метрику MAE < 7 на test. Обучать модели будем на Tesla V100 на 30 эпохах, с динамическим изменением Learning Rate. В качестве архитектуры возьмем Residual Network (ResNet50) |  Завершен| 
 
 
 
@@ -137,19 +137,19 @@
 
 | Тема       | Описание задач               | Статус |
 | ------------- |:------------------:| -----:|
-| 01. [ROWS/GROUPS](https://github.com/berserkr7/SQL/blob/main/ROWS-GROUPS.ipynb)     | Задачи с использование настройки фреймов    | Завершен |
-| 02. [Ранжирование](https://github.com/berserkr7/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%A0%D0%B0%D0%BD%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)     | Задачи с использованием оконных функций ранжирования: rank(), dense_rank(), row_number()  | Завершен |
-| 03. [Агрегация в оконных функциях](https://github.com/berserkr7/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%86%D0%B8%D0%B8.ipynb)     | Применение агрегационных функций в over()  | Завершен |
-| 04. [Задачи на основы SQL](https://github.com/berserkr7/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.ipynb)     | GROUP BY, CTE, SELECT, LIKE | Завершен |
-| 05. [Скользящие агрегаты](https://github.com/berserkr7/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B5%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D1%8B.ipynb)     | Задачи с использованием скользящих агрегационных функций  | Завершен |
-| 06. [Смещения в over()](https://github.com/berserkr7/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)     | LEAD(), LAG()  | Завершен |
-| 07. [Расчет Островов](https://github.com/berserkr7/SQL/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2.ipynb)     | Задачи на расчеты островов, кластеризация данных в SQL  | Завершен |
-| 08. [Очистка данных](https://github.com/berserkr7/SQL/blob/main/%D0%9E%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20SQL.ipynb)     | Препроцессинг данных с помощью SQL  | Завершен |
-| 09. [JOIN](https://github.com/berserkr7/SQL/blob/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20JOIN%D0%B0%D0%BC%D0%B8.ipynb)     | Работа с джоинами, случаи с дублированием данных  | Завершен |
-| 10. [Расчет статистик](https://github.com/berserkr7/SQL/blob/main/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%20%D0%B2%20SQL.ipynb)    | Расчет статистических функций cume_dist(), percent_rank()  | Завершен |
-| 11. [Финансовые задачи](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20SQL.ipynb)     | Расчет финансовых задач в SQL | Завершен |
-| 12. [Фреймы FILTER](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-FILTER.ipynb)     | Применение FILTER в фреймах    | Завершен |
-| 13. [Фреймы Range](https://github.com/berserkr7/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-RANGE.ipynb)     | Применение Range в фреймах  | Завершен |
+| 01. [ROWS/GROUPS](https://github.com/samoylenko23/SQL/blob/main/ROWS-GROUPS.ipynb)     | Задачи с использование настройки фреймов    | Завершен |
+| 02. [Ранжирование](https://github.com/samoylenko23/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%A0%D0%B0%D0%BD%D0%B6%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F.ipynb)     | Задачи с использованием оконных функций ранжирования: rank(), dense_rank(), row_number()  | Завершен |
+| 03. [Агрегация в оконных функциях](https://github.com/samoylenko23/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%86%D0%B8%D0%B8.ipynb)     | Применение агрегационных функций в over()  | Завершен |
+| 04. [Задачи на основы SQL](https://github.com/samoylenko23/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B%20SQL.ipynb)     | GROUP BY, CTE, SELECT, LIKE | Завершен |
+| 05. [Скользящие агрегаты](https://github.com/samoylenko23/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B5%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D1%8B.ipynb)     | Задачи с использованием скользящих агрегационных функций  | Завершен |
+| 06. [Смещения в over()](https://github.com/samoylenko23/SQL/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F.ipynb)     | LEAD(), LAG()  | Завершен |
+| 07. [Расчет Островов](https://github.com/samoylenko23/SQL/blob/main/%D0%9A%D0%BB%D0%B0%D1%81%D1%82%D0%B5%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D1%80%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2.ipynb)     | Задачи на расчеты островов, кластеризация данных в SQL  | Завершен |
+| 08. [Очистка данных](https://github.com/samoylenko23/SQL/blob/main/%D0%9E%D1%87%D0%B8%D1%81%D1%82%D0%BA%D0%B0%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%20%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C%D1%8E%20SQL.ipynb)     | Препроцессинг данных с помощью SQL  | Завершен |
+| 09. [JOIN](https://github.com/samoylenko23/SQL/blob/main/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20JOIN%D0%B0%D0%BC%D0%B8.ipynb)     | Работа с джоинами, случаи с дублированием данных  | Завершен |
+| 10. [Расчет статистик](https://github.com/samoylenko23/SQL/blob/main/%D0%A0%D0%B0%D1%81%D1%87%D0%B5%D1%82%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%20%D0%B2%20SQL.ipynb)    | Расчет статистических функций cume_dist(), percent_rank()  | Завершен |
+| 11. [Финансовые задачи](https://github.com/samoylenko23/SQL/blob/main/%D0%A4%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8%20%D0%BD%D0%B0%20SQL.ipynb)     | Расчет финансовых задач в SQL | Завершен |
+| 12. [Фреймы FILTER](https://github.com/samoylenko23/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-FILTER.ipynb)     | Применение FILTER в фреймах    | Завершен |
+| 13. [Фреймы Range](https://github.com/samoylenko23/SQL/blob/main/%D0%A4%D1%80%D0%B5%D0%B9%D0%BC%D1%8B-RANGE.ipynb)     | Применение Range в фреймах  | Завершен |
 
 <a href="https://github.com/berserkr7/SQL"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
