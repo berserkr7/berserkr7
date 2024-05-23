@@ -34,6 +34,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-blue?style=for-the-badge&)
+![Uplift](https://img.shields.io/badge/Uplift-brightgreen?style=for-the-badge&)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&)
 ![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&)
@@ -45,6 +46,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![transformers](https://img.shields.io/badge/transformers-blue?style=for-the-badge&)
 ![LightGBM](https://img.shields.io/badge/LightGBM-success?style=for-the-badge&)
+![Implicit](https://img.shields.io/badge/Implicit-blue?style=for-the-badge&)
 ![pymorphy3](https://img.shields.io/badge/pymorphy3-blue?style=for-the-badge&)
 ![pymystem3](https://img.shields.io/badge/pymystem3-yellow?style=for-the-badge&)
 ![NLTK](https://img.shields.io/badge/NLTK-brightgreen?style=for-the-badge&)
@@ -57,6 +59,7 @@
 ![phik](https://img.shields.io/badge/phik-inactive?style=for-the-badge&)
 ![seaborn](https://img.shields.io/badge/seaborn-blue?style=for-the-badge&)
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-brightgreen?style=for-the-badge&)
+![PyTest](https://img.shields.io/badge/PyTest-blue?style=for-the-badge&)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
