@@ -49,7 +49,7 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&)
 ![LightGBM](https://img.shields.io/badge/LightGBM-orange?style=for-the-badge&)
 ![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=for-the-badge&)
-![Clickhouse](https://img.shields.io/badge/Clickhouse?style=for-the-badge&logo=postgresql&logoColor=white)
+![Clickhouse](https://img.shields.io/badge/Clickhouse-017CEE?style=for-the-badge&logo=Airflow&logoColor=brightgreen)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
