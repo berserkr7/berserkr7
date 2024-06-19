@@ -74,13 +74,19 @@
 ---
 <h2><p align="center"> ⚡Репозитории⚡ </p></h2>
 
-<code>1. [Classic ML](https://github.com/samoylenko23/Data-Science-Projects)
+<code>1. [Lifecycle Pipeline Models](https://github.com/samoylenko23/lifecycle-pipeline-models)
 </code>
-<code>2. [Natural language processing (NLP)](https://github.com/samoylenko23/NLP-Projects)
+<code>2. [FastAPI Deployment Prodaction Model](https://github.com/samoylenko23/fastapi_prodaction_deployment)
 </code>
-<code>3. [Computer Vision](https://github.com/samoylenko23/CV-Projects)
+<code>3. [Simple FastAPI app with ML](https://github.com/samoylenko23/ML-FastAPI)
 </code>
-<code>5. [SQL](https://github.com/samoylenko23/SQL)
+<code>4. [Data Science Projects](https://github.com/samoylenko23/Data-Science-Projects)
+</code>
+<code>5. [Computer Vision](https://github.com/samoylenko23/CV-Projects)
+</code>
+<code>6. [Natural language processing (NLP)](https://github.com/samoylenko23/NLP-Projects)
+</code>
+<code>7. [SQL](https://github.com/samoylenko23/SQL)
 </code>
 
 
@@ -88,7 +94,7 @@
 
 ---
 
-<h2><p align="center"> Machine Learning </p></h2>
+<h2><p align="center"> Data Science Projects </p></h2>
 
 
 
@@ -112,7 +118,7 @@
 
 ***
 
-<h2><p align="center"> Проекты Deep Learning и NLP</p></h2>
+<h2><p align="center"> NLP</p></h2>
 
 
 | Проект       | Описание                | Статус |
@@ -122,7 +128,7 @@
 <a href="https://github.com/samoylenko23/NLP-Projects"><img src='https://img.shields.io/badge/К репозиторию-&#x21A9-blue'></a>
 
 ---
-<h2><p align="center">Проекты Deep Learning и Computer Vision</p></h2>
+<h2><p align="center">Computer Vision</p></h2>
 
 
 | Проект       | Описание                | Статус |
