@@ -49,7 +49,7 @@
 ![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&)
 ![LightGBM](https://img.shields.io/badge/LightGBM-orange?style=for-the-badge&)
 ![XGBoost](https://img.shields.io/badge/XGBoost-orange?style=for-the-badge&)
-![Clickhouse](https://img.shields.io/badge/Clickhouse-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Clickhouse](https://img.shields.io/badge/Clickhouse?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,8 +65,8 @@
 ![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-brightgreen?style=for-the-badge&)
 ![PyTest](https://img.shields.io/badge/PyTest-blue?style=for-the-badge&)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-blue?style=for-the-badge&)
+![CI/CD](https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&)
 
 
 ---
