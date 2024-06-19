@@ -29,8 +29,8 @@
 
 ---
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=brightgreen)
-![FastApi](https://img.shields.io/badge/FastApi-blueviolet?style=for-the-badge&)
-![Pydantic](https://img.shields.io/badge/Pydantic-blue?style=for-the-badge&)
+![FastApi](https://img.shields.io/badge/FastApi-success?style=for-the-badge&)
+![Pydantic](https://img.shields.io/badge/Pydantic-success?style=for-the-badge&)
 ![DVC](https://img.shields.io/badge/DVC-success?style=for-the-badge&)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-brightgreen?style=for-the-badge&)
