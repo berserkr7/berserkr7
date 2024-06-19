@@ -29,9 +29,9 @@
 
 ---
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=brightgreen)
-![FastApi](https://img.shields.io/badge/FastApi-success?style=for-the-badge&)
+![FastApi](https://img.shields.io/badge/FastApi-blueviolet?style=for-the-badge&)
 ![Pydantic](https://img.shields.io/badge/Pydantic-success?style=for-the-badge&)
-![DVC](https://img.shields.io/badge/DVC-success?style=for-the-badge&)
+![DVC](https://img.shields.io/badge/DVC-orange?style=for-the-badge&)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-brightgreen?style=for-the-badge&)
 ![Grafana](https://img.shields.io/badge/Grafana-brightgreen?style=for-the-badge&)
@@ -42,6 +42,7 @@
 ![Autofeat](https://img.shields.io/badge/Autofeat-yellow?style=for-the-badge&)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![transformers](https://img.shields.io/badge/transformers-blue?style=for-the-badge&)
+![FastText](https://img.shields.io/badge/FastText-blue?style=for-the-badge&)
 ![pymorphy3](https://img.shields.io/badge/pymorphy3-blue?style=for-the-badge&)
 ![pymystem3](https://img.shields.io/badge/pymystem3-blue?style=for-the-badge&)
 ![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge&)
@@ -53,6 +54,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![scikit-uplift](https://img.shields.io/badge/scikit--uplift-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
