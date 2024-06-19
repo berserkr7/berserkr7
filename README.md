@@ -28,13 +28,13 @@
 </h2>
 
 ---
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Airflow&logoColor=brightgreen)
 ![FastApi](https://img.shields.io/badge/FastApi-blueviolet?style=for-the-badge&)
 ![Pydantic](https://img.shields.io/badge/Pydantic-blue?style=for-the-badge&)
 ![DVC](https://img.shields.io/badge/DVC-success?style=for-the-badge&)
 ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
 ![Prometheus](https://img.shields.io/badge/Prometheus-brightgreen?style=for-the-badge&)
-![Grafana](https://img.shields.io/badge/Grafana-blue?style=for-the-badge&)
+![Grafana](https://img.shields.io/badge/Grafana-brightgreen?style=for-the-badge&)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-success?style=for-the-badge&)
 ![Optuna](https://img.shields.io/badge/Optuna-blue?style=for-the-badge&)
@@ -43,8 +43,8 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![transformers](https://img.shields.io/badge/transformers-blue?style=for-the-badge&)
 ![pymorphy3](https://img.shields.io/badge/pymorphy3-blue?style=for-the-badge&)
-![pymystem3](https://img.shields.io/badge/pymystem3-yellow?style=for-the-badge&)
-![NLTK](https://img.shields.io/badge/NLTK-brightgreen?style=for-the-badge&)
+![pymystem3](https://img.shields.io/badge/pymystem3-blue?style=for-the-badge&)
+![NLTK](https://img.shields.io/badge/NLTK-blue?style=for-the-badge&)
 ![SPACY](https://img.shields.io/badge/SPACY-blue?style=for-the-badge&)
 ![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&)
 ![LightGBM](https://img.shields.io/badge/LightGBM-orange?style=for-the-badge&)
